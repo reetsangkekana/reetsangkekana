@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reetsangkekana
-- 👀 I’m interested in React 
+- 👀 I’m interested in php 
 - 💞️ I’m looking to collaborate on Mobile, Desktop and Web Apps projects
 - 📫 How to reach me ashleykekana@gmail.com
 
